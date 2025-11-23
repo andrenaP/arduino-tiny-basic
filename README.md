@@ -2,6 +2,8 @@
 
 This repository details a two-microcontroller embedded system designed to implement a self-contained BASIC programming environment with dedicated graphics output capabilities. The architecture utilizes two Arduino Nano microcontrollers to separate the computational core from the input/output (I/O) processing.
 
+![Image](https://github.com/andrenaP/arduino-tiny-basic/raw/refs/heads/main/videos/image.jpg)
+
 ## Project Overview
 
 The system employs a classic coprocessor model to enhance performance and functionality.
